@@ -1,15 +1,5 @@
 function Home() {
-  return (
-    <h1>Primeiro passo rumo aos 15k 😎🤑 Se gostou, dê uma risadinha 😂</h1>
-  );
-}
-
-function teste() {
-  console.log("Teste");
-}
-
-function teste2() {
-  console.log("indentação errada");
+  return <h1>Página em construção 😎</h1>;
 }
 
 export default Home;
