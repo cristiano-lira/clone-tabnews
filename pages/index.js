@@ -10,7 +10,7 @@ function Home() {
   return (
     <div style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
       <header style={{ borderBottom: "1px solid #ccc", paddingBottom: "10px" }}>
-        <h1>📰 TabNews</h1>
+        <h1>📰 HeadliNewsBrasil</h1>
         <p>Seu portal de notícias favorito</p>
       </header>
 
@@ -47,7 +47,7 @@ function Home() {
           paddingTop: "10px",
         }}
       >
-        <p>© 2025 TabNews. Todos os direitos reservados.</p>
+        <p>© 2025 HeadliNewsBrasil. Todos os direitos reservados.</p>
       </footer>
     </div>
   );
